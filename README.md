@@ -1,19 +1,19 @@
-#  A Systematic Mapping Study on Robotic Testing of Mobile Devices
-This repository comports a replication package for a systematic mapping study process applied in our paper "A Systematic Mapping Study on Robotic Testing of Mobile Devices", published in the SEAA 2022 conference.
+#  A Systematic Mapping Study on <br>Robotic Testing of Mobile Devices
+This repository contains a replication package for the systematic mapping study process applied in our paper "A Systematic Mapping Study on Robotic Testing of Mobile Devices", published in the SEAA 2022 conference.
 
 ## Replication package content
 
-* __[Review Protocol](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/REVIEW%20PROTOCOL.pdf)__: the systematic mapping study guide, setting the steps from the application of the search string to the final extraction of data from the selected articles.
+* __[Review Protocol](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/REVIEW%20PROTOCOL.pdf)__: the systematic mapping study guide, defining the steps from the application of the search string to the final data extraction from the selected articles.
 
-* __[all-steps](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/all-steps.xlsx)__: the spreadsheet that reports all the process defined in the protocol, summarizing the following main steps:
+* __[all-steps](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/all-steps.xlsx)__: the spreadsheet that reports on the execution of the process defined in the protocol, summarizing the following main steps:
   * Search result 
   * Duplicates removal
-  * Include/exclude based on title and abstract 
-  * Include/esclude based on introduction and conclusion 
+  * Include/exclude decision based on the title and the abstract 
+  * Include/exclude decision based on the introduction and the conclusion 
   * Backward snowballing
-  * Foward snowballing from the selected papers
+  * Forward snowballing from the selected papers
 
-* __[data-extraction](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/data-extraction.xlsx)__: the spreadsheet applied to extract data from the selected studies with the main purpose of providing informations related to the research questions, answering the following topics:
+* __[data-extraction](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/data-extraction.xlsx)__: the spreadsheet applied to extract data from the selected studies with the main purpose of providing information related to the research questions, answering the following topics:
   * DOI
   * Title
   * Publication year
@@ -32,4 +32,5 @@ This repository comports a replication package for a systematic mapping study pr
   * List any referenced work that is also worth reading.
   * Other relevant information.
 
-* __[unification - stepE+BackwardSnowballingE+FowardSnowballingE](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/unification%20-%20stepE%2BBackwardSnowballingE%2BFowardSnowballingE.xlsx)__: the main spreadsheet that comports all the relevant informations, from researchers responsible for each paper data extraction until divided tests categories, such as test purpouse and target.
+* __[unification - stepE+BackwardSnowballingE+FowardSnowballingE](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/synthesis.xlsx)__: the main spreadsheet that contains the synthesis of all relevant information.
+
