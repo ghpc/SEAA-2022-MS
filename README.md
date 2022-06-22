@@ -32,5 +32,5 @@ This repository contains a replication package for the systematic mapping study 
   * List any referenced work that is also worth reading.
   * Other relevant information.
 
-* __[unification - stepE+BackwardSnowballingE+FowardSnowballingE](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/synthesis.xlsx)__: the main spreadsheet that contains the synthesis of all relevant information.
+* __[synthesis](https://github.com/ghpc/SEAA-2022-SMS/blob/main/replication_package/synthesis.xlsx)__: the main spreadsheet that contains the synthesis of all relevant information.
 
